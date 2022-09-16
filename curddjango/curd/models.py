@@ -29,6 +29,8 @@ class Issues(models.Model):
     watcher = models.TextField()
     label = models.TimeField()
 
+    
+
 
 
 
